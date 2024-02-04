@@ -1,6 +1,6 @@
-# Deliveroo App Clone
+# Food Delivery App
 
-This is a clone of the Deliveroo app, built using [React Native](https://reactnative.dev/). It aims to replicate the core features and functionality of the original app.
+This is a Food  Delivery app, built using [React Native](https://reactnative.dev/). It aims to replicate the core features and functionality of the original app.
 
 ## Features
 
